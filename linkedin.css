@@ -1,0 +1,79 @@
+body, 
+.global-nav, 
+.entity-list-wrapper, 
+.entity-list-item, 
+.t-black--light, 
+.artdeco-card,
+.theme--mercado, 
+.comments-comments-list,
+.comments-highlighted-comment-item-content-body
+.theme--mercado .comments-post-meta__profile-link,
+.comments-post-meta__profile-link,
+.comments-highlighted-comment-item-content-body,
+.comments-reply-item-content-body
+{
+    background-color: #002b36 !important;
+    color: gray !important;
+}
+
+#voyager-feed {
+    margin-top: 5px;
+}
+
+
+/* text */
+p,
+h2,
+.t-black,
+.feed-shared-update-v2--minimal-padding .feed-shared-update-v2__commentary,
+.dist-value,
+.artdeco-entity-lockup--size-5 .artdeco-entity-lockup__title,
+.job-card-container__company-name, 
+.job-card-container__company-name:visited
+{
+    color: gray !important;
+}
+
+.profile-rail-card {
+    background-color: #002b36 !important;
+    color: gray !important;
+    border: 1px solid white;
+}
+
+.profile-rail-card__member-photo {
+    border: 2px solid black;
+}
+
+/* nav links */
+a,
+.global-nav__icon-path, 
+.global-nav__primary-link-text,
+.community-panel-interest-package__entity-link.community-panel-interest-package__entity-link,
+.artdeco-button__text,
+.artdeco-entity-lockup__caption,
+.artdeco-button--muted.artdeco-button--tertiary
+{
+    color: #2a7285 !important;
+}
+
+.global-nav__primary-link-text, 
+.theme--mercado .community-panel-interest-package__entity-icon,
+.theme--mercado .share-box-feed-entry__trigger--v2
+{
+    color: gray !important;
+}
+
+.artdeco-card,
+.profile-rail-card__actor-meta
+.comments-highlighted-comment-item-content-body
+{
+    border: 1px solid gray !important;
+}
+
+.comments-post-meta__profile-link {
+    border: 1px solid gray;
+}
+
+.global-nav {
+    border-bottom: 1px solid gray !important;
+}
