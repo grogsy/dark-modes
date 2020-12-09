@@ -1,0 +1,40 @@
+body,
+#dp,
+#a-page,
+#search,
+.s-desktop-content,
+.a-popover-content,
+.a-popoever-wrapper
+{
+    background-color: #232f3e !important;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+.a-list-item,
+.a-text-bold,
+.a-size-base,
+.a-sizse-base-plus
+
+{
+    color: gray !important;
+}
+
+.a-color-base,
+.a-price-symbol,
+.a-price-whole,
+.a-price-fraction,
+.a-icon,
+.a-icon-popover,
+.a-link-normal,
+#authorBio,
+#iframeContent
+{
+    color: white !important;
+}
